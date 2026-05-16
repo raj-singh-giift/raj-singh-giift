@@ -60,3 +60,11 @@ npx config-sentinel ./src
 ```
 
 Zero runtime overhead · Works with `dotenv`, `convict`, raw `process.env` · TypeScript-native
+
+---
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-singh-giift&layout=compact&hide_border=true&langs_count=8&count_private=true)
+
+</div>
