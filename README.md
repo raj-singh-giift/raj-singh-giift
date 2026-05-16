@@ -9,6 +9,7 @@ Building enterprise rewards & recognition infrastructure at [Xoxoday](https://xo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-8700b5214/)
 [![npm](https://img.shields.io/badge/npm-raj--singh--giift-CB3837?style=flat&logo=npm&logoColor=white)](https://www.npmjs.com/~raj-singh-giift)
 [![Email](https://img.shields.io/badge/raj.singh%40xoxoday.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:raj.singh@xoxoday.com)
+[![Personal GitHub](https://img.shields.io/badge/Personal%20GitHub-Rj1221-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rj1221)
 
 </div>
 
